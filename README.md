@@ -9,6 +9,7 @@ This project is a simple e-commerce website built to demonstrate basic functiona
      - Name
      - Picture (URL)
      - Fixed price
+       
 
 2. **Shopping Cart**:
    - Users can add selected products to their cart.
@@ -16,6 +17,8 @@ This project is a simple e-commerce website built to demonstrate basic functiona
      - Product name
      - Picture
      - Price
+   ![Shopping Management](https://github.com/user-attachments/assets/e23b7fae-8770-49c0-b92b-ed48b1bb3eeb)
+
 
 ## Technologies Used
 
