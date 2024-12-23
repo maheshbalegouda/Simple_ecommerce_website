@@ -9,9 +9,11 @@ This project is a simple e-commerce website built to demonstrate basic functiona
      - Name
      - Picture (URL)
      - Fixed price
-       
+       ![1](https://github.com/user-attachments/assets/8c76ce28-e70c-4446-a171-7f757d0917af)
+
 
 2. **Shopping Cart**:
+   
    - Users can add selected products to their cart.
    - View all items added to the cart, including:
      - Product name
